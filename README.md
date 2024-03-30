@@ -9,6 +9,7 @@
 - [Data Transformation and Analysis](#data-transformation-and-analysis)
 - [Findings](#findings)
 - [Recommendation](#recommendation)
+- [Report](#report)
 
 
 ## Business Task
@@ -626,6 +627,9 @@ Develop weekend packages targeting young adults.
 
 Launch a youth-focused marketing campaign leveraging social media platforms, influencer partnerships, and targeted advertising to reach young adults.
 
+
+## Report
+![Report B_page-0001](https://github.com/ChiamakaEjiogu/Google-DataAnalytic-Capstone-Project/assets/165348757/58f665b0-1b77-47a8-aa83-4f450004cd37)
 
 
 
